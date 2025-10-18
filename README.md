@@ -8,7 +8,6 @@ The goal: to build a *coming soon* page that is fully responsive with accessible
 ## 🗂️ Table of Contents
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
@@ -30,13 +29,9 @@ Users should be able to:
   - The input field is empty  
   - The email address format is invalid  
 
-### Screenshot
-![Preview](./screenshot.jpg)
-
-### Links
-- 🧠 Solution: https://www.frontendmentor.io/solutions/...  
-- 🌍 Live Site: https://your-username.github.io/base-apparel/ *(or Vercel)*  
-- 📦 Repository: https://github.com/your-username/base-apparel  
+### Links 
+- 🌍 Live Site: [Click here](https://harmajabb.github.io/base-apparel-coming-soon-master/)
+- 📦 Repository: [Click here](https://github.com/Harmajabb/base-apparel-coming-soon-master) 
 
 ---
 
